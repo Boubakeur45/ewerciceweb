@@ -5,6 +5,8 @@
     <list default="true" id="ccb94e21-2301-401b-812d-c7ca52a7e2a6" name="Changes" comment="" />
 =======
     <list default="true" id="ccb94e21-2301-401b-812d-c7ca52a7e2a6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/exercice2.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
 >>>>>>> feature/exercice1
@@ -17,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="editable-svg" />
       </list>
     </option>
   </component>
